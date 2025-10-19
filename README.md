@@ -154,8 +154,7 @@ You’ll be able to:
 ✅ Optimize performance
 ✅ Write clean, maintainable code
 ✅ Build and deploy your own React projects
-
----
+``````
 
 ## 🌐 Useful Links
 
@@ -165,8 +164,7 @@ You’ll be able to:
 * [Axios Docs](https://axios-http.com/)
 * [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
----
-
+`````
 ## 💬 Author
 
 **Md. Sakib**
@@ -175,8 +173,7 @@ You’ll be able to:
 💼 LinkedIn:[https://linkedin.com/in/sakibdeveloper]
 🐙 GitHub: [https://GitHub.com/sakibdeveloper999]
 
----
-
+````
 ## ⭐ Contribute & Support
 
 If you find this repository helpful:
@@ -184,17 +181,13 @@ If you find this repository helpful:
 * ⭐ Star the repo
 * 🪄 Fork it and add your ideas
 * 💬 Share it with others learning React!
-
----
+````
+`````
 
 > “The best way to learn React is by **building something every day** — and this repo helps you do exactly that.”
 > — *Md. Sakib*
 
-```
-
----
-
 Would you like me to:
 1. Add **badges** (like React version, “Made with ❤️ by Md. Sakib”, etc.)  
 2. Or make this README more **visually colorful** with emojis and section dividers for GitHub styling?
-```
+```````
