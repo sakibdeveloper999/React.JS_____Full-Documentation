@@ -210,11 +210,6 @@ It’s one of the best beginner exercises to practice React functions.
 
 💻 *Full-Stack Web Developer | WordPress Expert | MERN Stack Learner*
 
-```
-
----
-
 Would you like me to make a **matching thumbnail image (for GitHub or LinkedIn post)** — like a banner that says  
 > “How to Create & Use Functions in React.js ⚛️”  
 with your name and a clean modern tech background?
-````
