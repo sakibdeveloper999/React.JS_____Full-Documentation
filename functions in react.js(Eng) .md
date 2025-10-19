@@ -1,4 +1,4 @@
-````markdown
+
 # ⚛️ How to Create and Use a Function in React.js
 
 Functions in **React.js** are essential building blocks that help you manage logic, handle events, and display dynamic data inside components. This guide will show you how to **create**, **use**, and **apply** functions in real-world scenarios.
