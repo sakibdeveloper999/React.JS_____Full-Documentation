@@ -179,12 +179,3 @@ See `CONTRIBUTING.md` for more details (template included).
 
 This project is licensed under the **MIT License** — see `LICENSE` for details.
 
----
-
-### Want more?
-
-If you want, I can also:
-
-* Translate the README into **Bangla (বাংলা)** and create a `README.bn.md`.
-* Add GitHub Actions workflow for linting/tests.
-* Create polished Shields.io badge images with exact values (stars, build status) and a small PR you can drop into the repo.
