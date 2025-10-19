@@ -170,7 +170,7 @@ You’ll be able to:
 
 **Md. Sakib**
 🌍 WordPress & MERN Stack Developer
-📧 Email: [[your-sakibdeveloper999@gmail.com](mailto:contact@sakibdeveloper.com)]
+📧 Email: [sakibdeveloper999@gmail.com](mailto:contact@sakibdeveloper.com)]
 💼 LinkedIn:[https://linkedin.com/in/sakibdeveloper]
 🐙 GitHub: [https://GitHub.com/sakibdeveloper999]
 
