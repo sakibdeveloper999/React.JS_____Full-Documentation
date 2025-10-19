@@ -1,6 +1,3 @@
-
----
-
 ````markdown
 # ⚛️ How to Create and Use a Function in React.js
 
