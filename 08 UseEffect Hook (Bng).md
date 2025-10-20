@@ -5,6 +5,7 @@
 
 ---
 
+
 ## 1️⃣ এক লাইনে সারসংক্ষেপ
 
 `useEffect` হলো React-এর একটি হুক যা **component render হওয়ার পরে side-effect চালায়** (mount + update সময়), এবং চাইলে cleanup কাজও করে, যা dependency array দ্বারা নিয়ন্ত্রিত হয়।
