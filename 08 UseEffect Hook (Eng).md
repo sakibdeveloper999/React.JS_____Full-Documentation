@@ -1,4 +1,4 @@
-# 8_UseEffect_Hook — Full Step-by-Step Document (how it works, how to use, why/why not, examples & use cases)
+# 8 UseEffect Hook — Full Step-by-Step Document (how it works, how to use, why/why not, examples & use cases)
 
 ---
 
