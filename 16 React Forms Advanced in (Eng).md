@@ -730,8 +730,6 @@ function Wizard() {
 }
 ```
 
-
-
 ---
 
 # 🚀 **7 — Real API Integration (Full Pattern)**
