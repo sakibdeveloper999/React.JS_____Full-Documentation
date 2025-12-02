@@ -445,8 +445,6 @@ actions.setFieldError("email", "Email already registered");
 * Zod docs (TS inference)
 * React Router docs on blocking navigation (API varies by version)
 
-
-
 ---
 # Another way to learn React forms (validation + libraries like **Formik/Yup**) 
 ---
