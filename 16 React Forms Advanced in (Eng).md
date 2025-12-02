@@ -438,6 +438,7 @@ actions.setFieldError("email", "Email already registered");
 
 ---
 
+
 # 14 — Additional resources (what to search next)
 
 * React Hook Form docs (for `useFieldArray`, performance tips)
