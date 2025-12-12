@@ -11,6 +11,7 @@
 When data changes → UI updates.
 When UI changes (like user typing) → data updates.
 
+
 There are two main types:
 
 | Type                | Direction                               | Example                                   |
